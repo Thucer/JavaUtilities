@@ -1,2 +1,2 @@
-# JavaUtilities
-Basic utility funcitions and programs in Java
+# MiscJava
+Miscellaneous Java exercises
